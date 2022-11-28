@@ -158,7 +158,7 @@ if (!window.markCollection || !window.markCollection._colorOptions) {
                 --l); else for (var d, l = 0; l < w.length; l++) (d = w[l]).eventName == a && (w.splice(l, 1), 
                 --l);
             },
-            _getPorperties(t) {
+            _getProperties(t) {
                 return {
                     globalData: u,
                     input: t => {
