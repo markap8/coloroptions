@@ -1,5 +1,6 @@
+
 /**
- * Color Options v1
+ * Color Options v1.0
  * 
  * Copyright (c) 2022 Mark Angelo Paduhilao
  * licensed under MIT
